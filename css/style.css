@@ -80,15 +80,75 @@ body {
 
     color: #000000;
 }
-.mute{
+
+.mute {
     color: #9F9F9F;
 }
-.text-area a{
+
+.text-area a {
     text-decoration: none;
 }
-.text-area{
+
+.text-area {
     padding-left: 10px;
 }
+
 .content {
     margin-bottom: 20px;
+}
+
+#courses {
+    margin-top: 30px;
+}
+
+.card {
+    border: none;
+}
+
+.card-text {
+    color: #ED6B4F;
+}
+
+.start {
+    height: 11.75303840637207px;
+    width: 12.253878593444824px;
+    border-radius: 0px;
+    margin-right: 5px;
+}
+
+.clock {
+    height: 20.033588409423828px;
+    width: 20.033588409423828px;
+    border-radius: 0px;
+    margin-right: 10px;
+}
+
+.f-text {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.timer {
+    background: #FFE4E8;
+    font-weight: 600;
+    font-size: 14.6913px;
+    line-height: 20px;
+
+    /* #FF4A60 */
+    color: #FF4A60;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+.card-footer {
+    border-top: none;
+    background: #fff !important;
+}
+
+#courses {
+    margin-bottom: 30px;
+}
+
+.bg-light {
+    background: #fff !important;
 }
