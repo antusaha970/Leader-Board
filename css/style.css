@@ -20,3 +20,44 @@ body {
     width: 51px;
     height: 51px;
 }
+
+.players {
+    margin-top: 36px;
+}
+
+.headline {
+    color: #562EFF;
+    padding: 36px 0;
+}
+
+.player-name>img {
+    width: 56px;
+    height: 56px;
+}
+
+.player-name>p {
+    margin-bottom: 0;
+    padding-left: 10px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #000000;
+}
+
+.player-name {
+    padding-bottom: 30px;
+}
+
+@media (max-width:576px) {
+    .player-name{
+        justify-content: center;
+    }
+    .players {
+        margin-top: 0;
+    }
+    
+}
