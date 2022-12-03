@@ -53,11 +53,42 @@ body {
 }
 
 @media (max-width:576px) {
-    .player-name{
+    .player-name {
         justify-content: center;
     }
+
     .players {
         margin-top: 0;
     }
-    
+
+}
+
+.img-area>img {
+    width: 177px;
+    height: 117px;
+    /* margin-left: 20px;
+    margin-bottom: 20px; */
+}
+
+.text-area h5 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 34px;
+    padding-bottom: 10px;
+    /* or 170% */
+
+
+    color: #000000;
+}
+.mute{
+    color: #9F9F9F;
+}
+.text-area a{
+    text-decoration: none;
+}
+.text-area{
+    padding-left: 10px;
+}
+.content {
+    margin-bottom: 20px;
 }
