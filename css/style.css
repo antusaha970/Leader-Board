@@ -1,0 +1,22 @@
+body {
+    background: #E5E5E5;
+}
+
+.bg-top {
+    width: 100%;
+    background: #562EFF;
+}
+
+.logo {
+    width: 40.42px;
+    height: 51px;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.nav-img {
+    width: 51px;
+    height: 51px;
+}
